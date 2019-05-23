@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/snotrman/node-weather/issues"
   },
-  "homepage": "https://github.com/snotrman/node-weather#readme"
+  "homepage": "https://github.com/snotrman/node-weather#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "request": "^2.88.0"
+  }
 }
